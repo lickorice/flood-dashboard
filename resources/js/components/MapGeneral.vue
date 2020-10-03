@@ -1,15 +1,5 @@
 <template>
-    <div style="height: 500px; width: 100%">
-        <div style="height: 200px overflow: auto;">
-            <p>First marker is placed at {{ withPopup.lat }}, {{ withPopup.lng }}</p>
-            <p>Center is at {{ currentCenter }} and the zoom is: {{ currentZoom }}</p>
-            <button @click="showLongText">
-                Toggle long popup
-            </button>
-            <button @click="showMap = !showMap">
-                Toggle map
-            </button>
-        </div>
+    <div style="height: 70vh; width: 100%">
         <l-map
             v-if="showMap"
             :zoom="zoom"
@@ -56,6 +46,9 @@
     import { LMap, LTileLayer, LMarker, LPopup, LTooltip } from "vue2-leaflet";
     import 'leaflet/dist/leaflet.css';
 
+    var LAT_START = 14.652517;
+    var LONG_START = 121.071482;
+
     export default {
         components: {
             LMap,
@@ -67,15 +60,15 @@
 
         data() {
             return {
-                zoom: 13,
-                center: latLng(47.41322, -1.219482),
+                zoom: 14,
+                center: latLng(LAT_START, LONG_START),
                 url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
                 attribution:
                     '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
-                withPopup: latLng(47.41322, -1.219482),
-                withTooltip: latLng(47.41422, -1.250482),
+                withPopup: latLng(LAT_START, LONG_START),
+                withTooltip: latLng(LAT_START, LONG_START),
                 currentZoom: 11.5,
-                currentCenter: latLng(47.41322, -1.219482),
+                currentCenter: latLng(LAT_START, LONG_START),
                 showParagraph: false,
                 mapOptions: {
                     zoomSnap: 0.5

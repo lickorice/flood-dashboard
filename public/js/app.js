@@ -1979,19 +1979,11 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 
 
 
+var LAT_START = 14.652517;
+var LONG_START = 121.071482;
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
     LMap: vue2_leaflet__WEBPACK_IMPORTED_MODULE_1__["LMap"],
@@ -2002,14 +1994,14 @@ __webpack_require__.r(__webpack_exports__);
   },
   data: function data() {
     return {
-      zoom: 13,
-      center: Object(leaflet__WEBPACK_IMPORTED_MODULE_0__["latLng"])(47.41322, -1.219482),
+      zoom: 14,
+      center: Object(leaflet__WEBPACK_IMPORTED_MODULE_0__["latLng"])(LAT_START, LONG_START),
       url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
       attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
-      withPopup: Object(leaflet__WEBPACK_IMPORTED_MODULE_0__["latLng"])(47.41322, -1.219482),
-      withTooltip: Object(leaflet__WEBPACK_IMPORTED_MODULE_0__["latLng"])(47.41422, -1.250482),
+      withPopup: Object(leaflet__WEBPACK_IMPORTED_MODULE_0__["latLng"])(LAT_START, LONG_START),
+      withTooltip: Object(leaflet__WEBPACK_IMPORTED_MODULE_0__["latLng"])(LAT_START, LONG_START),
       currentZoom: 11.5,
-      currentCenter: Object(leaflet__WEBPACK_IMPORTED_MODULE_0__["latLng"])(47.41322, -1.219482),
+      currentCenter: Object(leaflet__WEBPACK_IMPORTED_MODULE_0__["latLng"])(LAT_START, LONG_START),
       showParagraph: false,
       mapOptions: {
         zoomSnap: 0.5
@@ -34527,44 +34519,8 @@ var render = function() {
   var _c = _vm._self._c || _h
   return _c(
     "div",
-    { staticStyle: { height: "500px", width: "100%" } },
+    { staticStyle: { height: "70vh", width: "100%" } },
     [
-      _c("div", { staticStyle: { height: "200px overflow: auto" } }, [
-        _c("p", [
-          _vm._v(
-            "First marker is placed at " +
-              _vm._s(_vm.withPopup.lat) +
-              ", " +
-              _vm._s(_vm.withPopup.lng)
-          )
-        ]),
-        _vm._v(" "),
-        _c("p", [
-          _vm._v(
-            "Center is at " +
-              _vm._s(_vm.currentCenter) +
-              " and the zoom is: " +
-              _vm._s(_vm.currentZoom)
-          )
-        ]),
-        _vm._v(" "),
-        _c("button", { on: { click: _vm.showLongText } }, [
-          _vm._v("\n              Toggle long popup\n          ")
-        ]),
-        _vm._v(" "),
-        _c(
-          "button",
-          {
-            on: {
-              click: function($event) {
-                _vm.showMap = !_vm.showMap
-              }
-            }
-          },
-          [_vm._v("\n              Toggle map\n          ")]
-        )
-      ]),
-      _vm._v(" "),
       _vm.showMap
         ? _c(
             "l-map",
