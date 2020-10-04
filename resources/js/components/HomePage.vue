@@ -1,6 +1,6 @@
 <template>
     <div class="row" style="height: 95vh; width: 100vw">
-        <div class="col-4 p-0 m-0 w-100" style="overflow-y: scroll; overflow-x: hidden">
+        <div class="col-4 p-0 m-0 w-100 h-100" style="overflow-y: scroll; overflow-x: hidden">
             <div class="row">
                 <div class="col mx-4 mt-3">
                     <div class="card mb-2">
@@ -35,13 +35,13 @@
                         <div class="card my-2">
                             <div class="card-body">
                                 <h2>Economic impact</h2>
-                                <h6>Monthly income affected</h6>
+                                <h6>Daily income affected</h6>
                                 <h3>Php {{ getIncome() }}*<span class="font-weight-light" style="font-size: 1rem"> or USD {{ getIncomeDollars() }}</span></h3>
                                 <small>*based on estimated income per sq. km (Philippine Statistics Authority, 2015)</small>
                                 
                                 <hr>
 
-                                <h6>Monthly tax collection affected</h6>
+                                <h6>Daily tax collection affected</h6>
                                 <h3>Php {{ getTax() }}*<span class="font-weight-light" style="font-size: 1rem"> or USD {{ getTaxDollars() }}</span></h3>
                                 <small>*based on estimated tax collection per sq. km (Philippine Statistics Authority, 2015)</small>
                             </div>
@@ -58,15 +58,23 @@
                     <div v-else class="text-muted text-center">
                         Select a region to start calculating...
                     </div>
-                    <div class="card mb-2">
+
+                    <hr>
+
+                    <div class="card mt-2">
                         <div class="card-body">
                             <h3>Recent Floods</h3>
                             <ul v-if="events">
-                                <li v-for="(event, key) in events">
+                                <li v-for="(event, key) in events" :key=key>
                                     {{ event['title'] }}
                                 </li>
                             </ul>
-                            <p v-else>None</p>
+                            <p v-else class="text-muted">No recent floods from server.</p>
+                        </div>
+                        <div class="card-footer text-muted">
+                            <i>
+                                <i class="fas fa-globe"></i> Data taken from <a href="https://eonet.sci.gsfc.nasa.gov/docs/v3">https://eonet.sci.gsfc.nasa.gov/docs/v3</a>
+                            </i>
                         </div>
                     </div>
                 </div>
@@ -117,16 +125,16 @@
                 return this.selectedCity.population[this.floodLevel-1].toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
             },
             getTax() {
-                return this.selectedCity.tax[this.floodLevel-1].toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
+                return (this.selectedCity.tax[this.floodLevel-1]/22).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
             },
             getTaxDollars() {
-                return (this.selectedCity.tax[this.floodLevel-1] / this.usExchangeRate).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
+                return (this.selectedCity.tax[this.floodLevel-1] / (this.usExchangeRate*22)).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
             },
             getIncome() {
-                return this.selectedCity.income[this.floodLevel-1].toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
+                return (this.selectedCity.income[this.floodLevel-1]/22).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
             },
             getIncomeDollars() {
-                return (this.selectedCity.income[this.floodLevel-1] / this.usExchangeRate).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
+                return (this.selectedCity.income[this.floodLevel-1] / this.usExchangeRate*22).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
             },
         },
         mounted () {
