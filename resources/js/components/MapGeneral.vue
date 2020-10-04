@@ -9,32 +9,31 @@
             @update:center="centerUpdate"
             @update:zoom="zoomUpdate"
         >
-        <l-tile-layer
-            :url="url"
-            :attribution="attribution"
-        />
-        <l-geo-json
-            :geojson="getGeoJson()"
-            :options="options"
-            :options-style="geoJsonStyleFunction"
-        />
-        <!-- <l-polygon
-            v-for="coords in getAlertLevel()"
-            :key="coords[0]"
-            :lat-lngs="coords" -->
-        ></l-polygon>
-            <l-marker :lat-lng="withPopup">
-                <l-popup>
-                    <div @click="innerClick">
-                        I am a popup
-                        <p v-show="showParagraph">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-                        sed pretium nisl, ut sagittis sapien. Sed vel sollicitudin nisi.
-                        Donec finibus semper metus id malesuada.
-                        </p>
-                    </div>
-                </l-popup>
-            </l-marker>
+            <l-tile-layer
+                :url="url"
+                :attribution="attribution"
+            />
+            <l-geo-json
+                v-if="floodLevel >= 3"
+                :key="changeGeoJson"
+                :geojson="require('./ncr_var1_250m_intersection.json')"
+                :options="options"
+                :options-style="geoJsonStyleFunction1"
+            />
+            <l-geo-json
+                v-if="floodLevel >= 2"
+                :key="changeGeoJson"
+                :geojson="require('./ncr_var2_250m_intersection.json')"
+                :options="options"
+                :options-style="geoJsonStyleFunction2"
+            />
+            <l-geo-json
+                v-if="floodLevel >= 1"
+                :key="changeGeoJson"
+                :geojson="require('./ncr_var3_250m_intersection.json')"
+                :options="options"
+                :options-style="geoJsonStyleFunction3"
+            />
         </l-map>
     </div>
 </template>
@@ -49,7 +48,7 @@
 
     export default {
         props: [
-            'varLevel',
+            'floodLevel', 'selectedCity',
         ],
 
         components: {
@@ -63,15 +62,13 @@
 
         data() {
             return {
+                changeGeoJson: 0,
                 zoom: 14,
                 center: latLng(LAT_START, LONG_START),
                 fillColor: "#dddd00",
                 url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
                 attribution:
                     '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
-                withPopup: latLng(LAT_START, LONG_START),
-                withTooltip: latLng(LAT_START, LONG_START),
-                currentZoom: 11.5,
                 currentCenter: latLng(LAT_START, LONG_START),
                 showParagraph: false,
                 mapOptions: {
@@ -84,18 +81,49 @@
         computed: {
             options() {
                 return {
-                    onEachFeature: this.onEachFeatureFunction
+                    onEachFeature: this.onEachFeatureFunction,
+                    filter: (f, l) => {
+                        if (this.selectedCity.NAME_2 == "ncr") return true
+                        return f.properties.NAME_2 == this.selectedCity.NAME_2 
+                    }
                 };
             },
-            geoJsonStyleFunction() {
-                const fillColor = this.fillColor; // important! need touch fillColor in computed for re-calculate when change fillColor
-                return () => {
+            geoJsonStyleFunction3() {
+                let fillColor = "#dddd00"; // important! need touch fillColor in computed for re-calculate when change fillColor
+                if (this.floodLevel == 2) fillColor = "#dd4400"
+                if (this.floodLevel == 3) fillColor = "#dd0000"
+                return (feature) => {
                     return {
-                        weight: 2,
+                        weight: 0,
                         color: fillColor,
                         opacity: 1,
                         fillColor: fillColor,
-                        fillOpacity: 0.5
+                        fillOpacity: 0.3
+                    };
+                };
+            },
+            geoJsonStyleFunction2() {
+                let fillColor = "#dddd00"; // important! need touch fillColor in computed for re-calculate when change fillColor
+                if (this.floodLevel == 3) fillColor = "#dd4400"
+                return () => {
+                    return {
+                        weight: 0,
+                        color: fillColor,
+                        opacity: 1,
+                        fillColor: fillColor,
+                        fillOpacity: 0.3
+                    };
+                };
+            },
+            geoJsonStyleFunction1() {
+                let fillColor = "#dddd00"; // important! need touch fillColor in computed for re-calculate when change fillColor
+                return () => {
+                    return {
+                        weight: 0,
+                        color: fillColor,
+                        opacity: 1,
+                        fillColor: fillColor,
+                        fillOpacity: 0.3
                     };
                 };
             },
@@ -116,18 +144,9 @@
             },
         },
         methods: {
-            getGeoJson() {
-                var x = require('./ncr_'+this.varLevel+'_250m_square.json')
-                if (this.varLevel == "var3") {
-                    this.fillColor = "#dd0000"
-                }
-                if (this.varLevel == "var2") {
-                    this.fillColor = "#dd4400"
-                }
-                if (this.varLevel == "var1") {
-                    this.fillColor = "#dddd00"
-                }
-                return x
+            changeCenter() {
+                this.center = latLng(this.selectedCity.lat, this.selectedCity.lng)
+                this.zoom = this.selectedCity.zoom
             },
             zoomUpdate(zoom) {
                 this.currentZoom = zoom;
@@ -143,7 +162,13 @@
             }
         },
         mounted() {
-            this.getGeoJson()
+            //
+        },
+        watch: { 
+            selectedCity: function(newVal, oldVal) { // watch it
+                this.changeCenter()
+                this.changeGeoJson++
+            }
         }
     }
 </script>
