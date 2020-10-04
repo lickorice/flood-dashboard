@@ -46,7 +46,7 @@
                                 <small>*based on estimated tax collection per sq. km (Philippine Statistics Authority, 2015)</small>
                             </div>
                         </div>
-                        <div class="card">
+                        <div class="card mb-2">
                             <div class="card-body">
                                 <h2>Humanitarian impact</h2>
                                 <h6>People affected</h6>
@@ -57,6 +57,17 @@
                     </div>
                     <div v-else class="text-muted text-center">
                         Select a region to start calculating...
+                    </div>
+                    <div class="card mb-2">
+                        <div class="card-body">
+                            <h3>Recent Floods</h3>
+                            <ul v-if="events">
+                                <li v-for="(event, key) in events">
+                                    {{ event['title'] }}
+                                </li>
+                            </ul>
+                            <p v-else>None</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -117,6 +128,13 @@
             getIncomeDollars() {
                 return (this.selectedCity.income[this.floodLevel-1] / this.usExchangeRate).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
             },
-        }
+        },
+        mounted () {
+            fetch('https://eonet.sci.gsfc.nasa.gov/api/v3/categories/floods?bbox=14.676863,120.956038,14.520046,121.098956')
+            .then(response => response.json())
+            .then((responseJSON) => {
+                this.events = responseJSON['features']
+            });
+        },
     }
 </script>
