@@ -1,5 +1,5 @@
 @extends('app')
 
 @section('content')
-    <map-general></map-general>
+    <home-page></home-page>
 @endsection
