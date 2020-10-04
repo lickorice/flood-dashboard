@@ -1,0 +1,5485 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0819266,14.6333716 ]
+    },
+    "properties": {
+    "address":"Barangka Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0902956,14.6222664 ]
+    },
+    "properties": {
+    "address":"Kalumpang Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0903395,14.6351841 ]
+    },
+    "properties": {
+    "address":"Leodegario Victorino Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.094397,14.65025 ]
+    },
+    "properties": {
+    "address":"Malanday Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.09755,14.63111 ]
+    },
+    "properties": {
+    "address":"Marikina Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0971009,14.6228801 ]
+    },
+    "properties": {
+    "address":"San Roque Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0964396,14.6378885 ]
+    },
+    "properties": {
+    "address":"Sto NiNo Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1035477,14.6477903 ]
+    },
+    "properties": {
+    "address":"Concepcion Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1020256,14.6505205 ]
+    },
+    "properties": {
+    "address":"Concepcion Integrated School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1038275,14.6575389 ]
+    },
+    "properties": {
+    "address":"H. Bautista Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1083958,14.673237 ]
+    },
+    "properties": {
+    "address":"Nangka Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0974142,14.6324101 ]
+    },
+    "properties": {
+    "address":"Sta. Elena High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1020256,14.6505205 ]
+    },
+    "properties": {
+    "address":"Concepcion Integrated High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0962752,14.6391328 ]
+    },
+    "properties": {
+    "address":"Sto NiNo High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1030553,14.6465295 ]
+    },
+    "properties": {
+    "address":"Marikina High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.071221,14.563683 ]
+    },
+    "properties": {
+    "address":"BAGONG ILOG ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0775466,14.5673285 ]
+    },
+    "properties": {
+    "address":"COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0751798,14.5591109 ]
+    },
+    "properties": {
+    "address":"BAGONG ILOG Multi-Purpose HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.071093,14.5646309 ]
+    },
+    "properties": {
+    "address":"BAGONG ILOG BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0775466,14.5673285 ]
+    },
+    "properties": {
+    "address":"BAGONG KATIPUNANAN COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0751798,14.5591109 ]
+    },
+    "properties": {
+    "address":"BAGONG KATIPUNANAN MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0748717,14.5579146 ]
+    },
+    "properties": {
+    "address":"BAGONG KATIPUNAN BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0749624,14.5555121 ]
+    },
+    "properties": {
+    "address":"SIXTO ANTONIO ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.095535,14.5954813 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.095535,14.5954813 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0900738,14.5628356 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0662147,14.5559264 ]
+    },
+    "properties": {
+    "address":"BUTING ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0671905,14.5547191 ]
+    },
+    "properties": {
+    "address":"BUTING MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0785211,14.5717785 ]
+    },
+    "properties": {
+    "address":"CANIOGAN ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0760879,14.5679599 ]
+    },
+    "properties": {
+    "address":"RIZAL HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0952303,14.6151249 ]
+    },
+    "properties": {
+    "address":"DELA PAZ ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1024129,14.6091869 ]
+    },
+    "properties": {
+    "address":"STO NIÃ‘O ELMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0974454,14.6149052 ]
+    },
+    "properties": {
+    "address":"CHRISTINE VILLAGE COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0837586,14.5514021 ]
+    },
+    "properties": {
+    "address":"KALAWAAN ELMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0775466,14.5673285 ]
+    },
+    "properties": {
+    "address":"COVERED COURT / BASKETBALL COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0867566,14.5511924 ]
+    },
+    "properties": {
+    "address":"KALAWAAN BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0748274,14.5621691 ]
+    },
+    "properties": {
+    "address":"PAMANTASANG LUNGSOD PASIG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0775466,14.5673285 ]
+    },
+    "properties": {
+    "address":"KAPASIGAN COVERED COURT / BASKEBALL COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.063209,14.567946 ]
+    },
+    "properties": {
+    "address":"KAPITOLYO HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0603331,14.5777055 ]
+    },
+    "properties": {
+    "address":"KAPITOLYO COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0900738,14.5628356 ]
+    },
+    "properties": {
+    "address":"MULTI PURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0900738,14.5628356 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0775466,14.5673285 ]
+    },
+    "properties": {
+    "address":"COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0915899,14.5991343 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.094491,14.593562 ]
+    },
+    "properties": {
+    "address":"NAPICO ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0949476,14.6002317 ]
+    },
+    "properties": {
+    "address":"MANGGAHAN ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1017599,14.5998932 ]
+    },
+    "properties": {
+    "address":"SAN LORENZO RUIZ ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1031246,14.6045841 ]
+    },
+    "properties": {
+    "address":"MANGGAHAN HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0836243,14.5786854 ]
+    },
+    "properties": {
+    "address":"MAYBUNGA ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0965189,14.5780031 ]
+    },
+    "properties": {
+    "address":"MAYBUNGA ELEMENTARY SCHOOL ANNEX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0945938,14.5780032 ]
+    },
+    "properties": {
+    "address":"RESPSCI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.096683,14.5752265 ]
+    },
+    "properties": {
+    "address":"PASIG CITY SCIENCE HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0658247,14.5756628 ]
+    },
+    "properties": {
+    "address":"ORANBO ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.095535,14.5954813 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSED HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0915899,14.5991343 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0830422,14.564593 ]
+    },
+    "properties": {
+    "address":"PALATIW ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0816285,14.6166436 ]
+    },
+    "properties": {
+    "address":"COVERED BASKETBALL COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0900738,14.5628356 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0915899,14.5991343 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0912957,14.5575833 ]
+    },
+    "properties": {
+    "address":"PINAGBUHATAN ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0994518,14.5524785 ]
+    },
+    "properties": {
+    "address":"ILUGIN ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0911412,14.5549421 ]
+    },
+    "properties": {
+    "address":"PINAGBUHATAN HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.103396,14.5439219 ]
+    },
+    "properties": {
+    "address":"NAGPAYONG ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0977006,14.549724 ]
+    },
+    "properties": {
+    "address":"DAMAYAN COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.061766,14.56533 ]
+    },
+    "properties": {
+    "address":"PINEDA ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0610694,14.563766 ]
+    },
+    "properties": {
+    "address":"PUROK 2 COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0900738,14.5628356 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0900738,14.5628356 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0915899,14.5991343 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0665884,14.5785431 ]
+    },
+    "properties": {
+    "address":"SPORT CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0850123,14.5843389 ]
+    },
+    "properties": {
+    "address":"ROSARIO ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0884152,14.588848 ]
+    },
+    "properties": {
+    "address":"EUSEBIO HIGH SCHOOL (RIZAL HIGH ANNEX)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1171969,14.5611855 ]
+    },
+    "properties": {
+    "address":"COVERED COURT GREENLAND"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0775466,14.5673285 ]
+    },
+    "properties": {
+    "address":"COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.095535,14.5954813 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0900738,14.5628356 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0900738,14.5628356 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0900738,14.5628356 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0900738,14.5628356 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0795944,14.5661894 ]
+    },
+    "properties": {
+    "address":"SAGAD ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0800029,14.5662999 ]
+    },
+    "properties": {
+    "address":"SAGAD HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0775466,14.5673285 ]
+    },
+    "properties": {
+    "address":"COVERED COURT / BASKETBALL COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0900738,14.5628356 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0603331,14.5777055 ]
+    },
+    "properties": {
+    "address":"SAN ANTONIO COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0775466,14.5673285 ]
+    },
+    "properties": {
+    "address":"COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0915899,14.5991343 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0758953,14.5511693 ]
+    },
+    "properties": {
+    "address":"SAN JOAQUIN ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0775466,14.5673285 ]
+    },
+    "properties": {
+    "address":"COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0827288,14.5595902 ]
+    },
+    "properties": {
+    "address":"OPEN COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0827288,14.5595902 ]
+    },
+    "properties": {
+    "address":"OPEN COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0731463,14.5606724 ]
+    },
+    "properties": {
+    "address":"SAN JOSE COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0851097,14.5763768 ]
+    },
+    "properties": {
+    "address":"OPEN SPACE (Barangay EARTHQUAKE RESCUE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0900738,14.5628356 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0915899,14.5991343 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.085981,14.56548 ]
+    },
+    "properties": {
+    "address":"SAN MIGUEL ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0775466,14.5673285 ]
+    },
+    "properties": {
+    "address":"COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0900738,14.5628356 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.095535,14.5954813 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.095535,14.5954813 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.095535,14.5954813 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.095535,14.5954813 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.095535,14.5954813 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.095535,14.5954813 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0915899,14.5991343 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.078817,14.561529 ]
+    },
+    "properties": {
+    "address":"PASIG CENTRAL ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.078817,14.561529 ]
+    },
+    "properties": {
+    "address":"SAN NICOLAS ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0915899,14.5991343 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.079128,14.563003 ]
+    },
+    "properties": {
+    "address":"LIBERATO DAMIAN ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0775466,14.5673285 ]
+    },
+    "properties": {
+    "address":"COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.095535,14.5954813 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0834658,14.5460062 ]
+    },
+    "properties": {
+    "address":"STA CRUZ Multi-Purpose HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0915899,14.5991343 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0986099,14.5872669 ]
+    },
+    "properties": {
+    "address":"DE CASTRO ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1031896,14.5828793 ]
+    },
+    "properties": {
+    "address":"STA LUCIA HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1008502,14.5847655 ]
+    },
+    "properties": {
+    "address":"ST. ROSARIO VILLAGE COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0610694,14.563766 ]
+    },
+    "properties": {
+    "address":"BASKETBALL COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0993079,14.5835635 ]
+    },
+    "properties": {
+    "address":"METROPOLIS VILLAGE COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0610694,14.563766 ]
+    },
+    "properties": {
+    "address":"BASKETBALL COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1013196,14.5814491 ]
+    },
+    "properties": {
+    "address":"ROSARIO 5&amp;6 COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0610694,14.563766 ]
+    },
+    "properties": {
+    "address":"BASKETBALL COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0995633,14.5881382 ]
+    },
+    "properties": {
+    "address":"STA LUCIA BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0610694,14.563766 ]
+    },
+    "properties": {
+    "address":"BASKETBALL COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0900738,14.5628356 ]
+    },
+    "properties": {
+    "address":"MULTIPURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0731146,14.559006 ]
+    },
+    "properties": {
+    "address":"STA ROSA BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0821915,14.6151762 ]
+    },
+    "properties": {
+    "address":"SANTOLAN ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.083376,14.6154152 ]
+    },
+    "properties": {
+    "address":"SANTOLAN HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0920629,14.6197149 ]
+    },
+    "properties": {
+    "address":"DONA BETANG COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0610694,14.563766 ]
+    },
+    "properties": {
+    "address":"BASKETBALL COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0816285,14.6166436 ]
+    },
+    "properties": {
+    "address":"LLAYA COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0867585,14.6119989 ]
+    },
+    "properties": {
+    "address":"SANTOLAN BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0786362,14.5789711 ]
+    },
+    "properties": {
+    "address":"INFRONT BRANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.079598,14.5644987 ]
+    },
+    "properties": {
+    "address":"STO TOMAS BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0816285,14.6166436 ]
+    },
+    "properties": {
+    "address":"COVERED BASKETBALL COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0610694,14.563766 ]
+    },
+    "properties": {
+    "address":"BASKETBALL COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0750806,14.5573955 ]
+    },
+    "properties": {
+    "address":"SUMILANG BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0792029,14.5794365 ]
+    },
+    "properties": {
+    "address":"FRANCISCO LEGASPI MEMORIAL Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0610694,14.563766 ]
+    },
+    "properties": {
+    "address":"BASKETBALL COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0610694,14.563766 ]
+    },
+    "properties": {
+    "address":"BASKETBALL COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0686235,14.5868269 ]
+    },
+    "properties": {
+    "address":"VALLE VERDE V"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0686235,14.5868269 ]
+    },
+    "properties": {
+    "address":"VALLE VERDE IV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0753803,14.5817586 ]
+    },
+    "properties": {
+    "address":"VALLE VERDE II"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0700923,14.5818154 ]
+    },
+    "properties": {
+    "address":"UGONG COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0702063,14.5976587 ]
+    },
+    "properties": {
+    "address":"UGONG NORTE BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0224925,14.6064593 ]
+    },
+    "properties": {
+    "address":"San Juan Gymnasium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0308399,14.6046632 ]
+    },
+    "properties": {
+    "address":"Pinaglabanan Shrine (Open Space)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0329354,14.6055565 ]
+    },
+    "properties": {
+    "address":"Fil Oil V Arena"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0340984,14.6080629 ]
+    },
+    "properties": {
+    "address":"Fil Oil Flying V Arena Parking Building"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.025626,14.6086583 ]
+    },
+    "properties": {
+    "address":"Balongbato Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0504845,14.6057645 ]
+    },
+    "properties": {
+    "address":"Balongbato Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.02492,14.613109 ]
+    },
+    "properties": {
+    "address":"Balongbato Day Care Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0244545,14.5990444 ]
+    },
+    "properties": {
+    "address":"Batis Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0263428,14.6001454 ]
+    },
+    "properties": {
+    "address":"Batis Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0263428,14.6001454 ]
+    },
+    "properties": {
+    "address":"Batis Day Care Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0298419,14.603959 ]
+    },
+    "properties": {
+    "address":"Pinaglabanan Elem Sch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0298419,14.603959 ]
+    },
+    "properties": {
+    "address":"Pinaglabanan Elem Sch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0293739,14.6056141 ]
+    },
+    "properties": {
+    "address":"San Juan National High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0313781,14.6065305 ]
+    },
+    "properties": {
+    "address":"Corazon de Jesus Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0313599,14.6065231 ]
+    },
+    "properties": {
+    "address":"Corazon de Jesus Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0307552,14.6118869 ]
+    },
+    "properties": {
+    "address":"Ermitano Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0299265,14.6119076 ]
+    },
+    "properties": {
+    "address":"Ermitano Day Care Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0474437,14.6070066 ]
+    },
+    "properties": {
+    "address":"Ermitano Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0504845,14.6057645 ]
+    },
+    "properties": {
+    "address":"Pasadena Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0348695,14.6065913 ]
+    },
+    "properties": {
+    "address":"Pasadena Learning Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.023207,14.604657 ]
+    },
+    "properties": {
+    "address":"Pedro Cruz Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0263918,14.605484 ]
+    },
+    "properties": {
+    "address":"Pedro Cruz Elem Sch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.025626,14.6047778 ]
+    },
+    "properties": {
+    "address":"Pedro Cruz Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.025626,14.6047778 ]
+    },
+    "properties": {
+    "address":"Pedro Cruz Day Care Ctr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0244579,14.6113026 ]
+    },
+    "properties": {
+    "address":"Salapan Elem Sch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0241961,14.6068362 ]
+    },
+    "properties": {
+    "address":"Salapan Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.025029,14.612139 ]
+    },
+    "properties": {
+    "address":"Salapan Health Ctr / Lying In"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0216634,14.6028026 ]
+    },
+    "properties": {
+    "address":"San Perfecto Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.023196,14.603124 ]
+    },
+    "properties": {
+    "address":"San Perfecto Elem Sch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9665242,14.6549057 ]
+    },
+    "properties": {
+    "address":"Barangay 12 Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9641058,14.6488664 ]
+    },
+    "properties": {
+    "address":"Macario Asistio High School\n \n \n \n Barangay 14 Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0612792,14.7598251 ]
+    },
+    "properties": {
+    "address":"Caloocan Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9762767,14.6422383 ]
+    },
+    "properties": {
+    "address":"Barangay Hall and Day Care Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.972784,14.657963 ]
+    },
+    "properties": {
+    "address":"Multi-Purpose Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0450459,14.7747136 ]
+    },
+    "properties": {
+    "address":"Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.966434,14.6570366 ]
+    },
+    "properties": {
+    "address":"Open Court Sugpo Pamana Basketball Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0480023,14.7630616 ]
+    },
+    "properties": {
+    "address":"Barangay Hall and Covered Courtr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9747613,14.6511962 ]
+    },
+    "properties": {
+    "address":"Barangay Hall Central"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0450459,14.7747136 ]
+    },
+    "properties": {
+    "address":"Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.000318,14.682988 ]
+    },
+    "properties": {
+    "address":"Libis Baesa Elemntary School\n \n Annex 1, Fatima Chapel, SMK Association, Barangay Multi-purpose"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0450459,14.7747136 ]
+    },
+    "properties": {
+    "address":"Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.009805,14.680529 ]
+    },
+    "properties": {
+    "address":"Sta. Quiteria Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.016649,14.689967 ]
+    },
+    "properties": {
+    "address":"Talipapa High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0455143,14.7764086 ]
+    },
+    "properties": {
+    "address":"Bagong Silang Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0450459,14.7747136 ]
+    },
+    "properties": {
+    "address":"Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0455143,14.7764086 ]
+    },
+    "properties": {
+    "address":"Bagong Silang Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9889085,14.6017243 ]
+    },
+    "properties": {
+    "address":"University of the East"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.992956,14.654374 ]
+    },
+    "properties": {
+    "address":"St. Mary's Academy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9862475,14.6590004 ]
+    },
+    "properties": {
+    "address":"Manila Central University"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9917995,14.6548323 ]
+    },
+    "properties": {
+    "address":"Notre Dame Academy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.968754,14.667535 ]
+    },
+    "properties": {
+    "address":"Acacia Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.968794,14.667651 ]
+    },
+    "properties": {
+    "address":"Acacia Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.949162,14.671664 ]
+    },
+    "properties": {
+    "address":"Amang Rodriguez Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9658454,14.6680747 ]
+    },
+    "properties": {
+    "address":"Javier Day Care Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9658454,14.6680747 ]
+    },
+    "properties": {
+    "address":"Bayan-Bayan Multi-Purpose Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9458216,14.6748384 ]
+    },
+    "properties": {
+    "address":"Bayan-Bayan Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9453752,14.6760243 ]
+    },
+    "properties": {
+    "address":"Celia 2 Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9792825,14.6698148 ]
+    },
+    "properties": {
+    "address":"San Roque Chapel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.940997,14.676976 ]
+    },
+    "properties": {
+    "address":"Malabon Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.941917,14.677054 ]
+    },
+    "properties": {
+    "address":"Malabon National High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.960107,14.6702308 ]
+    },
+    "properties": {
+    "address":"CatmonÂ Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9622664,14.6646346 ]
+    },
+    "properties": {
+    "address":"Catmon Integrated School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9605911,14.6717786 ]
+    },
+    "properties": {
+    "address":"Malabon BJMP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9603806,14.6693621 ]
+    },
+    "properties": {
+    "address":"Gabriel Compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9591644,14.6861798 ]
+    },
+    "properties": {
+    "address":"STKKC Multi-purpose Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.949572,14.667583 ]
+    },
+    "properties": {
+    "address":"Concepcion Elementary Sch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.949351,14.6674913 ]
+    },
+    "properties": {
+    "address":"Concepcion Voc Tech Annex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9496263,14.6677056 ]
+    },
+    "properties": {
+    "address":"Concepcion Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.931078,14.696202 ]
+    },
+    "properties": {
+    "address":"Dampalit Elementary School Main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.931078,14.696202 ]
+    },
+    "properties": {
+    "address":"Dampalit Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.932227,14.694323 ]
+    },
+    "properties": {
+    "address":"Dampalit Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9436823,14.673785 ]
+    },
+    "properties": {
+    "address":"Flores Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9505662,14.6635232 ]
+    },
+    "properties": {
+    "address":"Barangay Flores Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.941917,14.677054 ]
+    },
+    "properties": {
+    "address":"Malabon National High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.940997,14.676976 ]
+    },
+    "properties": {
+    "address":"Malabon Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9507918,14.6655111 ]
+    },
+    "properties": {
+    "address":"Santiago Syjuco Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9536606,14.667202 ]
+    },
+    "properties": {
+    "address":"Ibaba Multi-Purpose Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9572912,14.6552905 ]
+    },
+    "properties": {
+    "address":"Longos Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9611349,14.6482203 ]
+    },
+    "properties": {
+    "address":"Imelda Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.961358,14.654615 ]
+    },
+    "properties": {
+    "address":"Longos National High Sch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9601605,14.6537811 ]
+    },
+    "properties": {
+    "address":"City of Malabon University"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9628251,14.6470745 ]
+    },
+    "properties": {
+    "address":"Barangay Longos Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9605813,14.6814603 ]
+    },
+    "properties": {
+    "address":"Maysilo Daycare Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.960905,14.6773679 ]
+    },
+    "properties": {
+    "address":"Maysilo Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.963303,14.675768 ]
+    },
+    "properties": {
+    "address":"Iglesia Edificada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.97325,14.69008 ]
+    },
+    "properties": {
+    "address":"Knights of Columbus Office"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9495636,14.6709946 ]
+    },
+    "properties": {
+    "address":"Muzon Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9512571,14.6740772 ]
+    },
+    "properties": {
+    "address":"St. John the Baptist Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.950435,14.662173 ]
+    },
+    "properties": {
+    "address":"United Methodist Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.949991,14.676405 ]
+    },
+    "properties": {
+    "address":"Muzon Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9536606,14.667202 ]
+    },
+    "properties": {
+    "address":"1.Â Barangay Niugan Multi-purpose Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9551923,14.667258 ]
+    },
+    "properties": {
+    "address":"Niugan Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9535869,14.6670641 ]
+    },
+    "properties": {
+    "address":"Niugan Chapel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9579187,14.6666087 ]
+    },
+    "properties": {
+    "address":"Potter and Clay School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9543848,14.687299 ]
+    },
+    "properties": {
+    "address":"Panghulo National High Sch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9581424,14.6839368 ]
+    },
+    "properties": {
+    "address":"Panghulo Elementary School Main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9549557,14.6851699 ]
+    },
+    "properties": {
+    "address":"Panghulo Elementary School I"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.983418,14.6631521 ]
+    },
+    "properties": {
+    "address":"Potrero Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9838791,14.6631872 ]
+    },
+    "properties": {
+    "address":"Potrero Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9925372,14.6724466 ]
+    },
+    "properties": {
+    "address":"Potrero Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.952546,14.662112 ]
+    },
+    "properties": {
+    "address":"Dela Paz Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9496078,14.6619683 ]
+    },
+    "properties": {
+    "address":"Ramon Camus Integrated School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9588716,14.68547 ]
+    },
+    "properties": {
+    "address":"Santulan Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9592857,14.6841927 ]
+    },
+    "properties": {
+    "address":"Santulan Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9658454,14.6680747 ]
+    },
+    "properties": {
+    "address":"TaÃ±ong Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9658454,14.6680747 ]
+    },
+    "properties": {
+    "address":"Barangay TaÃ±ong Multi-Purpose hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.940997,14.676976 ]
+    },
+    "properties": {
+    "address":"TaÃ±ong Elementary Unit-I"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.951996,14.6573733 ]
+    },
+    "properties": {
+    "address":"TaÃ±ong Integrated School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.966816,14.66008 ]
+    },
+    "properties": {
+    "address":"TaÃ±ong National High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9699752,14.6712701 ]
+    },
+    "properties": {
+    "address":"Tinajeros Elementary Sch main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9658454,14.6680747 ]
+    },
+    "properties": {
+    "address":"Tinajeros Barangay Hall 3 / F"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9580742,14.6626006 ]
+    },
+    "properties": {
+    "address":"Tonsuya Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9574213,14.6638673 ]
+    },
+    "properties": {
+    "address":"Tonsuya Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9674704,14.6577289 ]
+    },
+    "properties": {
+    "address":"Tugatog Day Care Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9696288,14.6642692 ]
+    },
+    "properties": {
+    "address":"Tugatog Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9689892,14.6629184 ]
+    },
+    "properties": {
+    "address":"Tugatog Tusco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.044081,14.6701463 ]
+    },
+    "properties": {
+    "address":"Tugatog Gazebo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9673795,14.6642814 ]
+    },
+    "properties": {
+    "address":"Kiwanis Multi-purpose Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9704423,14.6631892 ]
+    },
+    "properties": {
+    "address":"Sarile Chapel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9658454,14.6680747 ]
+    },
+    "properties": {
+    "address":"Duncan Mutuc Multi-purpose Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9672641,14.6612855 ]
+    },
+    "properties": {
+    "address":"Diwa Plaza Basketball Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0132457,14.4319784 ]
+    },
+    "properties": {
+    "address":"Almanza Elementary School (ES)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0177597,14.418484 ]
+    },
+    "properties": {
+    "address":"Almanza Elementary School - T. S. Cruz Annex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0083265,14.403154 ]
+    },
+    "properties": {
+    "address":"T. S. Cruz High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9989482,14.4603654 ]
+    },
+    "properties": {
+    "address":"CAA Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0009403,14.4591758 ]
+    },
+    "properties": {
+    "address":"CAA Elementary School Annex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9935957,14.4538938 ]
+    },
+    "properties": {
+    "address":"CAA National High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0009403,14.4591758 ]
+    },
+    "properties": {
+    "address":"CAA National High School Annex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9803969,14.4813846 ]
+    },
+    "properties": {
+    "address":"Daniel Fajardo Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9815152,14.4823756 ]
+    },
+    "properties": {
+    "address":"Las Pinas National High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9938736,14.444546 ]
+    },
+    "properties": {
+    "address":"Multipurpose BHOA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9814876,14.4806652 ]
+    },
+    "properties": {
+    "address":"Daniel Fajardo Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9775338,14.4753001 ]
+    },
+    "properties": {
+    "address":"Las Pinas Elementary School Central"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9815152,14.4823756 ]
+    },
+    "properties": {
+    "address":"Las PiÃ±as Elementary School Central"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0117605,14.4096632 ]
+    },
+    "properties": {
+    "address":"Multipurpose Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.98,14.4779 ]
+    },
+    "properties": {
+    "address":"Ilaya Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9800254,14.4806818 ]
+    },
+    "properties": {
+    "address":"Barangay Ilaya covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9813514,14.4774679 ]
+    },
+    "properties": {
+    "address":"Ilaya Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9852123,14.4824238 ]
+    },
+    "properties": {
+    "address":"Manuyo Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9846061,14.4829031 ]
+    },
+    "properties": {
+    "address":"Manuyo Uno Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.985548,14.484004 ]
+    },
+    "properties": {
+    "address":"Manuyo Uno Barangay Outpost"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9920038,14.4704883 ]
+    },
+    "properties": {
+    "address":"Las Pinas National High School - Gatchalian Annex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.991665,14.470819 ]
+    },
+    "properties": {
+    "address":"Manuyo Dos Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.969494,14.450679 ]
+    },
+    "properties": {
+    "address":"Barangay Multipurpose Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9993853,14.4749561 ]
+    },
+    "properties": {
+    "address":"Covered Court operated by Phase 4 Gatchalian Subd."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9925491,14.4705298 ]
+    },
+    "properties": {
+    "address":"Immaculate Concepcion Parish"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9913383,14.4704405 ]
+    },
+    "properties": {
+    "address":"Gonzalo Gatchalian Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9920038,14.4704883 ]
+    },
+    "properties": {
+    "address":"Las Pinas National High School - Gatchalian Annex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.970054,14.458046 ]
+    },
+    "properties": {
+    "address":"Pamplona Elementary School Central"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9712281,14.4611092 ]
+    },
+    "properties": {
+    "address":"Pamplona Elementary School I"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9805873,14.4541151 ]
+    },
+    "properties": {
+    "address":"HOA Basketball Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.970054,14.458046 ]
+    },
+    "properties": {
+    "address":"Pamplona Elementary School Central (P.E.S.C)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9712281,14.4611092 ]
+    },
+    "properties": {
+    "address":"Pamplona Elementary School I"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9938736,14.444546 ]
+    },
+    "properties": {
+    "address":"Balagtas Multi-Purpose and Day Care Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0027101,14.4388302 ]
+    },
+    "properties": {
+    "address":"Barangay Hall Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9749912,14.4496457 ]
+    },
+    "properties": {
+    "address":"Pamplona Dos Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9938736,14.444546 ]
+    },
+    "properties": {
+    "address":"Sterling Life Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9848349,14.4851363 ]
+    },
+    "properties": {
+    "address":"Saint Peter Chapel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.980356,14.454179 ]
+    },
+    "properties": {
+    "address":"Las Pinas East National High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9805873,14.4541151 ]
+    },
+    "properties": {
+    "address":"Verdant Acres Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9842712,14.4557003 ]
+    },
+    "properties": {
+    "address":"Pamplona Tres Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9805873,14.4541151 ]
+    },
+    "properties": {
+    "address":"Dona Manuela Subd. Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0061821,14.4122593 ]
+    },
+    "properties": {
+    "address":"Pilar Village Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.00905,14.4209748 ]
+    },
+    "properties": {
+    "address":"Aguilar Sports Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.011251,14.4201132 ]
+    },
+    "properties": {
+    "address":"Blessed Trinity School (BTS)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0090486,14.4186528 ]
+    },
+    "properties": {
+    "address":"Our Lady of the Pillar Parish (Nuestra SeÃ±ora del Pilar)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9868323,14.458877 ]
+    },
+    "properties": {
+    "address":"Pulanlupa Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9747697,14.4721158 ]
+    },
+    "properties": {
+    "address":"TESDA- Manpower &amp; Livelihood Building"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9868323,14.458877 ]
+    },
+    "properties": {
+    "address":"Pulanglupa Elementary School - Camella Annex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9798933,14.4605552 ]
+    },
+    "properties": {
+    "address":"Vergonville Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9803241,14.4604432 ]
+    },
+    "properties": {
+    "address":"Las Pinas North National High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9815292,14.4810829 ]
+    },
+    "properties": {
+    "address":"Saint Joseph&#039;s Chapel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9973721,14.4167468 ]
+    },
+    "properties": {
+    "address":"Moonwalk Elementary School - Golden Acres Annex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0036338,14.4285745 ]
+    },
+    "properties": {
+    "address":"Moonwalk Elementary School - Mikesell Annex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.002452,14.438379 ]
+    },
+    "properties": {
+    "address":"Talon Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9977216,14.4178845 ]
+    },
+    "properties": {
+    "address":"Golden Acres National High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0035215,14.4375726 ]
+    },
+    "properties": {
+    "address":"Philippine Merchant Marine School (PMMS)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9849956,14.432885 ]
+    },
+    "properties": {
+    "address":"Las Pinas Science High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.973686,14.471721 ]
+    },
+    "properties": {
+    "address":"Barangay Compound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9915917,14.4404149 ]
+    },
+    "properties": {
+    "address":"Talon Dos Institute of Technology (TDIT) / Manpower Development Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0010534,14.4426613 ]
+    },
+    "properties": {
+    "address":"Talon 3 Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9938736,14.444546 ]
+    },
+    "properties": {
+    "address":"Carmencita Basketball Covered court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0015228,14.4453215 ]
+    },
+    "properties": {
+    "address":"Rizal Experimental Station and Pilot School of Cottage Industries ( R.E.S.P.S.C.I )"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0013884,14.4421512 ]
+    },
+    "properties": {
+    "address":"Talon Tres Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.980356,14.454179 ]
+    },
+    "properties": {
+    "address":"Las Pinas East National High School - EquitableAnnex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0038959,14.4354046 ]
+    },
+    "properties": {
+    "address":"Las Pinas East National High School - TalonVillage Annex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9985357,14.4572466 ]
+    },
+    "properties": {
+    "address":"Annex B"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0036338,14.4285745 ]
+    },
+    "properties": {
+    "address":"Moonwalk Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9973518,14.4195513 ]
+    },
+    "properties": {
+    "address":"Barangay Talon Singko Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9913126,14.4239347 ]
+    },
+    "properties": {
+    "address":"Nimbus covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9710548,14.4645062 ]
+    },
+    "properties": {
+    "address":"Zapote Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0326514,14.5677035 ]
+    },
+    "properties": {
+    "address":"COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0118725,14.544028 ]
+    },
+    "properties": {
+    "address":"BANGKAL ELEMENTARY SCHOOL I"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.009654,14.541498 ]
+    },
+    "properties": {
+    "address":"BANGKAL ELEMENTARY SCHOOL II"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0118725,14.544028 ]
+    },
+    "properties": {
+    "address":"BANGKAL ELEMETARY SCHOOL 111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0182073,14.5450112 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0272407,14.5704806 ]
+    },
+    "properties": {
+    "address":"BAVA OFFICE COMPLEX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0283092,14.5700583 ]
+    },
+    "properties": {
+    "address":"GEMINI ROOM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0244452,14.554729 ]
+    },
+    "properties": {
+    "address":"PHOENIX ROOM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0244452,14.554729 ]
+    },
+    "properties": {
+    "address":"CAPELLA ROOM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0189574,14.5555245 ]
+    },
+    "properties": {
+    "address":"GYM ROOM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0326514,14.5677035 ]
+    },
+    "properties": {
+    "address":"MULTI PURPOSE COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0244452,14.554729 ]
+    },
+    "properties": {
+    "address":"TWO (2) FLOORS SMALL Building (BODEGA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0326514,14.5677035 ]
+    },
+    "properties": {
+    "address":"MULTI PURPOSE COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0244452,14.554729 ]
+    },
+    "properties": {
+    "address":"OPEN SPACE FOR COLLAPSIBLE TENTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0244452,14.554729 ]
+    },
+    "properties": {
+    "address":"BARANGAY SATELLITE CLINIC AND STAGIN AREA FOR LIFE LINE ARROWS AMBULANCE AND EMT / RESCUE / MEDICAL PERSONNEL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0244452,14.554729 ]
+    },
+    "properties": {
+    "address":"BARANGAY TANOD / BANTAY BAYAN OUTPOST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0244452,14.554729 ]
+    },
+    "properties": {
+    "address":"OPEN SPACE (car park and playground area) FOR COLLAPSIBLE TENTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0236101,14.5561311 ]
+    },
+    "properties": {
+    "address":"OPEN SPACE AND CAR PARK AREA AND AUDITORIUM AT MAKATI STOCK EXCHANGE (MSE) BUILDING COULD BE USED AS INCIDENT COMMAND SYSTEM AREA AND STAGING AREA, FOR ALL EMERGENCY AND RESCUE VEHICLES AND TRIANGLE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0199823,14.5619663 ]
+    },
+    "properties": {
+    "address":"THERE ARE ALSO OTHER VACANT LOTS THAT COULD BE USED AS EVAACUATION CENTERS, LIKE THE TWO (2) VACANTS LOTS AT THE CORNER OF MALUGAY AND G. PUYAT AVENUE AND THE osmak COMPOUND, FOR MALUGAY AEA RESIDENTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0305049,14.53735 ]
+    },
+    "properties": {
+    "address":"DVA PAVILION, 1417 CAMPANILLA ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0305049,14.53735 ]
+    },
+    "properties": {
+    "address":"DVA COVERED BASKETBALL COURT, 1417 CAMPANILLA ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0616782,14.5385905 ]
+    },
+    "properties": {
+    "address":"COVERED COURT, 6TH AVENUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.064719,14.557131 ]
+    },
+    "properties": {
+    "address":"MULTI PURPOSE HALL, 5TH AVENUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0643678,14.5571681 ]
+    },
+    "properties": {
+    "address":"TIBAGAN Elementary / HIGH SCHOOL, 6TH AVE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0640565,14.5539891 ]
+    },
+    "properties": {
+    "address":"EAST REMBO Elementary School., 16TH AVE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.063444,14.55321 ]
+    },
+    "properties": {
+    "address":"MATER DOLOROSA PARISH CHURCH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0616782,14.5385905 ]
+    },
+    "properties": {
+    "address":"BASKETBALL COVERED COURT (BFP COMMUNITY CENTER )"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0649267,14.547092 ]
+    },
+    "properties": {
+    "address":"MULTI PURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0353201,14.5512273 ]
+    },
+    "properties": {
+    "address":"FORBES PARK&#039;S PARK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0480657,14.5594857 ]
+    },
+    "properties": {
+    "address":"BO. VISAYA COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.04472,14.5605297 ]
+    },
+    "properties": {
+    "address":"GAUDALUPE NUEVO COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0394219,14.56414 ]
+    },
+    "properties": {
+    "address":"GAUDALUPE VIEJO COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0422854,14.5597248 ]
+    },
+    "properties": {
+    "address":"GAUDALUPE VIEJO Elementary School."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.01583,14.575631 ]
+    },
+    "properties": {
+    "address":"BARANGYA HALL, 2094 E. PASCUA ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0168236,14.5757544 ]
+    },
+    "properties": {
+    "address":"MULTI PURPOSE HALL, 1244 C. FRANCISCO ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0065254,14.5669334 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL, (1ST TO 3RD FLR.) ALONG ARCHIMEDEZ ST. NEAR VITO CRUZ EXTN."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.006958,14.569419 ]
+    },
+    "properties": {
+    "address":"LA PAZ Elementary School., NEW Building (1ST TO 4TH FLR.) ALONG ARCHIMEDEZ ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0088649,14.5688243 ]
+    },
+    "properties": {
+    "address":"LA PAZ PARISH CHURCH, ALONG ARCHIMEDEZ ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0109741,14.567008 ]
+    },
+    "properties": {
+    "address":"LA PAZ COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0211789,14.5741617 ]
+    },
+    "properties": {
+    "address":"3 STOREY BGY. HALL FORTUNA ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0262754,14.56733 ]
+    },
+    "properties": {
+    "address":"COVERED COURT, FORTUNA ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.021822,14.572824 ]
+    },
+    "properties": {
+    "address":"JOSE MAGSAYSAY Elementary School. J.B. ROXAS ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.020982,14.569575 ]
+    },
+    "properties": {
+    "address":"NICANOR GARCIA Elementary School, CONSTANCIA ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0064037,14.5454371 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL DANLIG cor TOLENTINO ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0398893,14.5571158 ]
+    },
+    "properties": {
+    "address":"OUR LADY OF IMMACULATE CONCEPCION CHAPEL, KALAYAN AVE. cor. NATIVE ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0107409,14.5566365 ]
+    },
+    "properties": {
+    "address":"KOLISEYUM NG BAYAN, WASHINGTON ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.008951,14.550449 ]
+    },
+    "properties": {
+    "address":"HEN. PIO DEL PILAR ELEM SCH.- MAIN, A. ARNAIZ AVE. cor. P. BINAY ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0117244,14.5558058 ]
+    },
+    "properties": {
+    "address":"HEN. PIO DEL PILAR ELEM SCH.- I, FACUNDO ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0150133,14.5504311 ]
+    },
+    "properties": {
+    "address":"DON BOSCO PARISH GYM, A. ARNAIZ AVE. cor. AMORSOLO ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.012326,14.556125 ]
+    },
+    "properties": {
+    "address":"SAN ISIDRO NATIONAL HIGH SCH.- ANEEX J. VICTOR ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.044754,14.5610609 ]
+    },
+    "properties": {
+    "address":"COMMUNITY COMPLEX ( BGY. HALL, HEALTH CENTER and COVERED COURT)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0609105,14.5536248 ]
+    },
+    "properties": {
+    "address":"DAY CARE CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0466014,14.5566324 ]
+    },
+    "properties": {
+    "address":"PITOGO Elementary School."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.046917,14.5563503 ]
+    },
+    "properties": {
+    "address":"PITOGO HIGH SCH."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0329461,14.5677065 ]
+    },
+    "properties": {
+    "address":"POBLACION PARK, J.P. RIZAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0324798,14.5677631 ]
+    },
+    "properties": {
+    "address":"POBLACION SPORTS COMPLEX, J.P. ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0244452,14.554729 ]
+    },
+    "properties": {
+    "address":"MAKATI ELM. SCH. Building and GROUNDS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0182073,14.5450112 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0607944,14.5329272 ]
+    },
+    "properties": {
+    "address":"OPEN BASKETBALL COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0244452,14.554729 ]
+    },
+    "properties": {
+    "address":"OPEN COURT (GROUP 3, ARMOR VILLAGE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0244452,14.554729 ]
+    },
+    "properties": {
+    "address":"BARANGAY DAY CARE CENTER (ARMOR VILLAGE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0325347,14.5674159 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL, J.P. RIZAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0616782,14.5385905 ]
+    },
+    "properties": {
+    "address":"COVERED COURT, FLORAVELLE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0223413,14.5527751 ]
+    },
+    "properties": {
+    "address":"CHAPEL, FLORAVELLE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.060369,14.536673 ]
+    },
+    "properties": {
+    "address":"RIZAL Elementary School."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0182073,14.5450112 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL ( Multi - purpose)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0078309,14.5592868 ]
+    },
+    "properties": {
+    "address":"SAN ANTONIO COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0082883,14.5620094 ]
+    },
+    "properties": {
+    "address":"SAN ANTONIO VILLAGE Elementary School."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0063169,14.5612469 ]
+    },
+    "properties": {
+    "address":"SAN ANTONIO NATIONAL HIGH SCH."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0072713,14.554673 ]
+    },
+    "properties": {
+    "address":"HOLY FAMILY COVERED COURT - PRIVATE, 2786 FARADAY ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0072713,14.554673 ]
+    },
+    "properties": {
+    "address":"HOLY FAMILY PARISH - , 2786 FARADAY ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0000789,14.5567272 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL, 2246 FORD cor. MARCONI ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0067533,14.555442 ]
+    },
+    "properties": {
+    "address":"SAN ISIDRO NATIONAL HIGH SCH., BORNEO ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.002086,14.55251 ]
+    },
+    "properties": {
+    "address":"SAN ISIDRO CHAPEL, 2300 MARCONI, ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0042655,14.5528494 ]
+    },
+    "properties": {
+    "address":"MAPSA / BANTAY BAYAN headquarters, 1629 cor. Edison &amp; dian St."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.01674,14.549902 ]
+    },
+    "properties": {
+    "address":"SAN LORENZO VILLAGE PARK, ( inside San Lorenzo Village)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.016831,14.554124 ]
+    },
+    "properties": {
+    "address":"LEGASPI ACTIVE PARK ( within Legaspi Village )"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.009954,14.570207 ]
+    },
+    "properties": {
+    "address":"MAKATI COLISEUM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.017196,14.568012 ]
+    },
+    "properties": {
+    "address":"FRANCISCO BENITEZ Elementary School III"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0265225,14.5605264 ]
+    },
+    "properties": {
+    "address":"PUREGOLD MAKATI (Parking Area)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0182073,14.5450112 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0504083,14.5569111 ]
+    },
+    "properties": {
+    "address":"MULTI PURPOSE HALL, AGUINALDO ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0497146,14.5594523 ]
+    },
+    "properties": {
+    "address":"SOUTH CEMBO COVERED COURT, GEN. LUNA ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0499252,14.5593041 ]
+    },
+    "properties": {
+    "address":"SOUTH CEMBE Elementary School. GEN. LUNA ST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0075662,14.554321 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL and COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.017196,14.568012 ]
+    },
+    "properties": {
+    "address":"F. BENITEZ, Elementary School."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0162045,14.5681592 ]
+    },
+    "properties": {
+    "address":"BGY. STA. CRUZ CHAPEL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.044754,14.5610609 ]
+    },
+    "properties": {
+    "address":"OLD BGY. HALL and HEALTH CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0182073,14.5450112 ]
+    },
+    "properties": {
+    "address":"BARANGAY HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0134048,14.5728759 ]
+    },
+    "properties": {
+    "address":"HOLY CROSS PARISH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0313714,14.5671518 ]
+    },
+    "properties": {
+    "address":"D. GOMEZ OPEN COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0141803,14.5675266 ]
+    },
+    "properties": {
+    "address":"TEJEROS BLISS OPEN COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.013436,14.573274 ]
+    },
+    "properties": {
+    "address":"FELICIDAD SY CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0148951,14.5712271 ]
+    },
+    "properties": {
+    "address":"SOCIAL DEVELOPMENT CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0326514,14.5677035 ]
+    },
+    "properties": {
+    "address":"BASKETBALL COVERED COURT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.04121,14.560654 ]
+    },
+    "properties": {
+    "address":"VILLAGE PARK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0246843,14.5717661 ]
+    },
+    "properties": {
+    "address":"VALENZUELA SPORTS COMPLEX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.011615,14.552676 ]
+    },
+    "properties": {
+    "address":"BALER PUERICULTURE CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.047,14.5504 ]
+    },
+    "properties": {
+    "address":"BONIFACIO PARK ( Open space)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0504083,14.5569111 ]
+    },
+    "properties": {
+    "address":"MULTI PURPOSE HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.00824,14.562014 ]
+    },
+    "properties": {
+    "address":"3RD FLR., SOCIAL HALL, BGY. HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.063368,14.559433 ]
+    },
+    "properties": {
+    "address":"WEST REMBO SPORTS COMPLEX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0635797,14.5589796 ]
+    },
+    "properties": {
+    "address":"WEST REMBO Elementary School."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.058407,14.562903 ]
+    },
+    "properties": {
+    "address":"FT. BONIFACIO Elementary School."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0582082,14.5635168 ]
+    },
+    "properties": {
+    "address":"FT. BONIFACIO HIGH SCH."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0481121,14.4433973 ]
+    },
+    "properties": {
+    "address":"Buli Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.037,14.4233 ]
+    },
+    "properties": {
+    "address":"Mullet Building"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0314047,14.3864583 ]
+    },
+    "properties": {
+    "address":"Itaas Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.041455,14.4028298 ]
+    },
+    "properties": {
+    "address":"Soldiers Hills Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.044163,14.401468 ]
+    },
+    "properties": {
+    "address":"F. De Mesa Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.051587,14.38111 ]
+    },
+    "properties": {
+    "address":"Tunasan Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0527522,14.3831566 ]
+    },
+    "properties": {
+    "address":"Tunasan Sports Complex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9896371,14.4910526 ]
+    },
+    "properties": {
+    "address":"BES Central"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.015592,14.475905 ]
+    },
+    "properties": {
+    "address":"BES Unit 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.998871,14.529764 ]
+    },
+    "properties": {
+    "address":"BES Unit 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.998694,14.479429 ]
+    },
+    "properties": {
+    "address":"PNHS Central"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0198229,14.4793095 ]
+    },
+    "properties": {
+    "address":"BNHS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.989915,14.5163981 ]
+    },
+    "properties": {
+    "address":"TAMBO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.989915,14.5163981 ]
+    },
+    "properties": {
+    "address":"Seaside Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.994484,14.514844 ]
+    },
+    "properties": {
+    "address":"Tambo Elementary School Unit 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9941208,14.5153428 ]
+    },
+    "properties": {
+    "address":"Camp Claudio Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0198229,14.4793095 ]
+    },
+    "properties": {
+    "address":"Edza Building"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0137874,14.491611 ]
+    },
+    "properties": {
+    "address":"Puyat Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.989915,14.5163981 ]
+    },
+    "properties": {
+    "address":"Tambo Main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9814801,14.50633 ]
+    },
+    "properties": {
+    "address":"DONGALO Sports Complex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9933549,14.5066372 ]
+    },
+    "properties": {
+    "address":"DONGALO Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9938257,14.50714 ]
+    },
+    "properties": {
+    "address":"PNHS - DONGALO Annex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9857147,14.5092062 ]
+    },
+    "properties": {
+    "address":"Don Galo Multi-Purpose Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.998694,14.479429 ]
+    },
+    "properties": {
+    "address":"ParaNaque National High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9932591,14.498138 ]
+    },
+    "properties": {
+    "address":"La Huerta Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.989608,14.490817 ]
+    },
+    "properties": {
+    "address":"P.E.S. Central"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.991,14.4877 ]
+    },
+    "properties": {
+    "address":"San Dionisio Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.015592,14.475905 ]
+    },
+    "properties": {
+    "address":"ParaNaque Elementary School Unit 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9917198,14.4937987 ]
+    },
+    "properties": {
+    "address":"San Dionisio Multi-Purpose Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0095527,14.5006041 ]
+    },
+    "properties": {
+    "address":"Sitio Libjo Center Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.018,14.4616 ]
+    },
+    "properties": {
+    "address":"Sto NiNo Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.998369,14.530446 ]
+    },
+    "properties": {
+    "address":"PNHS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0062537,14.5093131 ]
+    },
+    "properties": {
+    "address":"VITALEZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9941436,14.5170381 ]
+    },
+    "properties": {
+    "address":"Baltao Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0130769,14.4976827 ]
+    },
+    "properties": {
+    "address":"Barangay Vitalez Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.007061,14.509007 ]
+    },
+    "properties": {
+    "address":"R.G. Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0149966,14.4993555 ]
+    },
+    "properties": {
+    "address":"Holy Eucharist Parish SAC Building"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.027974,14.448893 ]
+    },
+    "properties": {
+    "address":"Phase 1 Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.008576,14.492184 ]
+    },
+    "properties": {
+    "address":"ROMVI Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0137733,14.4960161 ]
+    },
+    "properties": {
+    "address":"RSG Golezeum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0137733,14.4960161 ]
+    },
+    "properties": {
+    "address":"Bricktown Golezeum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0137733,14.4960161 ]
+    },
+    "properties": {
+    "address":"Scarlet Golezeum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0058849,14.4844023 ]
+    },
+    "properties": {
+    "address":"Multinational Club House"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.989915,14.5163981 ]
+    },
+    "properties": {
+    "address":"Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.989915,14.5163981 ]
+    },
+    "properties": {
+    "address":"Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9910828,14.5358053 ]
+    },
+    "properties": {
+    "address":"Basement Parking"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.989915,14.5163981 ]
+    },
+    "properties": {
+    "address":"Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0366871,14.4953815 ]
+    },
+    "properties": {
+    "address":"All Golezeum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.02405,14.5020358 ]
+    },
+    "properties": {
+    "address":"Belvedere Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0246668,14.5013273 ]
+    },
+    "properties": {
+    "address":"Rogationist Seminary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0200994,14.4642922 ]
+    },
+    "properties": {
+    "address":"Knights of Columbus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0112453,14.4561441 ]
+    },
+    "properties": {
+    "address":"Phase 3 Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0277397,14.4449388 ]
+    },
+    "properties": {
+    "address":"Clinic Day Care Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0277397,14.4449388 ]
+    },
+    "properties": {
+    "address":"Ipil Day Care Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0406937,14.4519636 ]
+    },
+    "properties": {
+    "address":"Massville Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0348059,14.4600849 ]
+    },
+    "properties": {
+    "address":"Sampaloc Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9917636,14.6189599 ]
+    },
+    "properties": {
+    "address":"Sampaloc Day Care Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0277397,14.4449388 ]
+    },
+    "properties": {
+    "address":"Sampaloc Day Care Center (Bayabas)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0288867,14.4504886 ]
+    },
+    "properties": {
+    "address":"Tahanan Basketball Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.989915,14.5163981 ]
+    },
+    "properties": {
+    "address":"Northwest Basketball Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.027974,14.448893 ]
+    },
+    "properties": {
+    "address":"Phase 1 Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0374071,14.489082 ]
+    },
+    "properties": {
+    "address":"Avelino Tolentino Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0294139,14.4898087 ]
+    },
+    "properties": {
+    "address":"Sun Valley National High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0380188,14.4919903 ]
+    },
+    "properties": {
+    "address":"Sun Valley Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0281439,14.4947074 ]
+    },
+    "properties": {
+    "address":"Lower Sta. Ana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9917148,14.4847009 ]
+    },
+    "properties": {
+    "address":"Bukid Area Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9917148,14.4847009 ]
+    },
+    "properties": {
+    "address":"Camachile Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9917148,14.4847009 ]
+    },
+    "properties": {
+    "address":"Riverside Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0242214,14.4911777 ]
+    },
+    "properties": {
+    "address":"Annex 45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0238792,14.4928782 ]
+    },
+    "properties": {
+    "address":"Culdesac Golezeum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0187462,14.5203248 ]
+    },
+    "properties": {
+    "address":"Countryside Ph 5 Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0407674,14.4863418 ]
+    },
+    "properties": {
+    "address":"Marimar Village Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.037195,14.4677029 ]
+    },
+    "properties": {
+    "address":"Marcelo Green Village Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.037195,14.4677029 ]
+    },
+    "properties": {
+    "address":"Severina 18 Gym"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.017313,14.465115 ]
+    },
+    "properties": {
+    "address":"United Pque Subd IV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0222712,14.4705872 ]
+    },
+    "properties": {
+    "address":"Multi-purpose Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0277397,14.4449388 ]
+    },
+    "properties": {
+    "address":"Day Care"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0277397,14.4449388 ]
+    },
+    "properties": {
+    "address":"Day Care"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0198229,14.4793095 ]
+    },
+    "properties": {
+    "address":"UHV-1 Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0112292,14.4692222 ]
+    },
+    "properties": {
+    "address":"DANHS-Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.989915,14.5163981 ]
+    },
+    "properties": {
+    "address":"Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.02113,14.468961 ]
+    },
+    "properties": {
+    "address":"San Antonio Parish Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0231077,14.470289 ]
+    },
+    "properties": {
+    "address":"ParaNaque Sports Complex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.02275,14.4665978 ]
+    },
+    "properties": {
+    "address":"Barangay Village Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.02275,14.4665978 ]
+    },
+    "properties": {
+    "address":"Welcome Village Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.020123,14.471749 ]
+    },
+    "properties": {
+    "address":"Sta. Catalina Day Care Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0137874,14.491611 ]
+    },
+    "properties": {
+    "address":"Area 1 Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0300966,14.4716203 ]
+    },
+    "properties": {
+    "address":"SAV-8 Golezeum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0272713,14.4723218 ]
+    },
+    "properties": {
+    "address":"SAV-5 Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0317663,14.4687473 ]
+    },
+    "properties": {
+    "address":"Casa Filipina Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9982743,14.4743243 ]
+    },
+    "properties": {
+    "address":"Lying-in Health Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9934692,14.5451984 ]
+    },
+    "properties": {
+    "address":"Pasay City Sports Complex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9922085,14.544807 ]
+    },
+    "properties": {
+    "address":"Cuneta Astrodome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.994622,14.549248 ]
+    },
+    "properties": {
+    "address":"Barangay 05 Open Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0010576,14.5522656 ]
+    },
+    "properties": {
+    "address":"Barangay 54 Covered Court (EDSES)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9859072,14.5684028 ]
+    },
+    "properties": {
+    "address":"Barangay 179 Gymnasium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0033057,14.5515254 ]
+    },
+    "properties": {
+    "address":"Barangay 180 Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0101503,14.5301867 ]
+    },
+    "properties": {
+    "address":"Barangay 182 Multi-Purpose Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0125611,14.5251929 ]
+    },
+    "properties": {
+    "address":"Barangay 183 Barangay Hall and Gymnasium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.008809,14.5294787 ]
+    },
+    "properties": {
+    "address":"Barangay 184 Gymnasium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0043872,14.5316761 ]
+    },
+    "properties": {
+    "address":"Barangay 186 Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0003638,14.5314177 ]
+    },
+    "properties": {
+    "address":"Barangay 190 Barangay Hall &amp; Covered Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.001469,14.5156274 ]
+    },
+    "properties": {
+    "address":"Barangay 192 Barangay Hall &amp; Open Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0023419,14.5144919 ]
+    },
+    "properties": {
+    "address":"Barangay 193 Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.006131,14.511897 ]
+    },
+    "properties": {
+    "address":"Barangay 196 Barangay Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.006131,14.511897 ]
+    },
+    "properties": {
+    "address":"Barangay 197 Multi-Purpose Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0295273,14.5074578 ]
+    },
+    "properties": {
+    "address":"Barangay 201 Covered Court &amp; Gymnasium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0046029,14.5306267 ]
+    },
+    "properties": {
+    "address":"Malibay Covered Gymnasium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0046029,14.5306267 ]
+    },
+    "properties": {
+    "address":"Barangay 178 Gymnasium"
+    }
+  }
+]
+}

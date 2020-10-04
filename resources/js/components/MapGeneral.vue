@@ -34,21 +34,26 @@
                 :options="options"
                 :options-style="geoJsonStyleFunction3"
             />
+            <l-geo-json
+                v-if="showEvacuationCenters"
+                :geojson="require('./ncr_evac.json')"
+                :options="evacOptions"
+            />
         </l-map>
     </div>
 </template>
 
 <script>
-    import { latLng } from "leaflet";
+    import { latLng, icon, marker } from "leaflet";
     import { LMap, LTileLayer, LMarker, LPopup, LTooltip, LGeoJson } from "vue2-leaflet";
     import 'leaflet/dist/leaflet.css';
 
-    var LAT_START = 14.652517;
-    var LONG_START = 121.071482;
+    var LAT_START = 14.600185;
+    var LONG_START = 120.995241;
 
     export default {
         props: [
-            'floodLevel', 'selectedCity',
+            'floodLevel', 'selectedCity', 'showEvacuationCenters'
         ],
 
         components: {
@@ -63,7 +68,7 @@
         data() {
             return {
                 changeGeoJson: 0,
-                zoom: 14,
+                zoom: 13.5,
                 center: latLng(LAT_START, LONG_START),
                 fillColor: "#dddd00",
                 url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
@@ -75,7 +80,12 @@
                     zoomSnap: 0.5
                 },
                 loading: false,
-                showMap: true
+                showMap: true,
+                evacIcon: icon({
+                    iconUrl: "https://www.pinclipart.com/picdir/middle/561-5612244_map-pin-icon-green-green-map-pin-png.png",
+                    iconSize: [32, 37],
+                    iconAnchor: [16, 37]
+                }),
             };
         },
         computed: {
@@ -85,6 +95,13 @@
                     filter: (f, l) => {
                         if (this.selectedCity.NAME_2 == "ncr") return true
                         return f.properties.NAME_2 == this.selectedCity.NAME_2 
+                    }
+                };
+            },
+            evacOptions() {
+                return {
+                    pointToLayer: (f, l) => {
+                        return marker(l, this.evacIcon)
                     }
                 };
             },
