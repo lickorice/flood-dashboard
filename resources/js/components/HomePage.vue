@@ -13,7 +13,7 @@
                             </select>
                         </div>
                     </div>
-                    <div class="card">
+                    <div class="card mb-2">
                         <div class="card-body">
                             <h3>Enter flood level:</h3>
                             <div class="custom-control custom-radio custom-control-inline">
@@ -28,6 +28,21 @@
                                 <input type="radio" id="customRadioInline3" v-model="floodLevel" value="3" class="custom-control-input">
                                 <label class="custom-control-label bg-red px-1 rounded" for="customRadioInline3">Critical Level (>1.5m)</label>
                             </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <h2>Economic impact</h2>
+                            <h6>Monthly income affected</h6>
+                            <h3>12,835,979.00* Php<span class="font-weight-light" style="font-size: 1rem"> or 124,123 USD</span></h3>
+                            <small>*based on estimated income per sq. km (Philippine Statistics Authority)</small>
+                            
+                            <hr>
+
+                            <h6>Monthly tax collection affected</h6>
+                            <h3>12,835,979.00* Php<span class="font-weight-light" style="font-size: 1rem"> or 124,123 USD</span></h3>
+                            <small>*based on estimated tax collection per sq. km (Philippine Statistics Authority)</small>
+
                         </div>
                     </div>
                 </div>
