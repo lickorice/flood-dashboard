@@ -51,6 +51,7 @@
                     {NAME_2: "Manila", name: "Manila", lat: 14.600185, lng: 120.995241, zoom: 14},
                     {NAME_2: "Quezon City", name: "Quezon City", lat: 14.651461, lng: 121.049301, zoom: 14},
                     {NAME_2: "Kalookan City", name: "Caloocan City", lat: 14.753569, lng: 121.039468, zoom: 14},
+                    {NAME_2: "Las PiÃƒÂ±as", name: "Las Piñas", lat: 14.440362, lng: 120.994935, zoom: 14},
                     {NAME_2: "Makati City", name: "Makati City", lat: 14.557752, lng: 121.032881, zoom: 14},
                     {NAME_2: "Malabon", name: "Malabon", lat: 14.672840, lng: 120.961093, zoom: 14},
                     {NAME_2: "Mandaluyong", name: "Mandaluyong", lat: 14.582816, lng: 121.039677, zoom: 14},
