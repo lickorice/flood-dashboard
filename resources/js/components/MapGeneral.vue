@@ -34,18 +34,27 @@
                 :options="options"
                 :options-style="geoJsonStyleFunction3"
             />
-            <l-geo-json
+            <!-- <l-geo-json
                 v-if="showEvacuationCenters"
                 :geojson="require('./ncr_evac.json')"
                 :options="evacOptions"
-            />
+            /> -->
+            <l-marker
+                v-for="evacPoint in evacPoints"
+                :key="evacPoint[0]"
+                :lat-lng="evacPoint"
+            >
+                <l-icon
+                    icon-url="https://drive.google.com/uc?id=1GsXWLN1d5aX7UjaG4wfjUHThNQz5DYkp"
+                ></l-icon>
+            </l-marker>
         </l-map>
     </div>
 </template>
 
 <script>
     import { latLng, icon, marker } from "leaflet";
-    import { LMap, LTileLayer, LMarker, LPopup, LTooltip, LGeoJson } from "vue2-leaflet";
+    import { LMap, LTileLayer, LMarker, LPopup, LTooltip, LGeoJson, LIcon } from "vue2-leaflet";
     import 'leaflet/dist/leaflet.css';
 
     var LAT_START = 14.600185;
@@ -63,6 +72,7 @@
             LPopup,
             LTooltip,
             LGeoJson,
+            LIcon,
         },
 
         data() {
@@ -71,7 +81,7 @@
                 zoom: 13.5,
                 center: latLng(LAT_START, LONG_START),
                 fillColor: "#dddd00",
-                url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+                url: 'https://api.tiles.mapbox.com/v4/mapbox.light/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiY2JwYXNjdWFsIiwiYSI6ImNrODNlbnlubDA1MWQzb281b2tvaGM1M2EifQ.lcGIG62j6rN1qyXEgFR3jw',
                 attribution:
                     '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
                 currentCenter: latLng(LAT_START, LONG_START),
@@ -82,10 +92,14 @@
                 loading: false,
                 showMap: true,
                 evacIcon: icon({
-                    iconUrl: "https://www.pinclipart.com/picdir/middle/561-5612244_map-pin-icon-green-green-map-pin-png.png",
-                    iconSize: [32, 37],
-                    iconAnchor: [16, 37]
+                    iconUrl:'https://drive.google.com/uc?id=1epJ3DRUFK0tdUAcK7h0tzffAthAI-Djd',
+                    iconRetinaUrl:'https://drive.google.com/uc?id=1epJ3DRUFK0tdUAcK7h0tzffAthAI-Djd',
+                    iconSize:[50,50],
+                    iconAnchor:[25,50],
+                    popupAnchor: [0,-40]
                 }),
+                evacJson: require('./ncr_evac.json'),
+                evacPoints: [],
             };
         },
         computed: {
@@ -179,7 +193,11 @@
             }
         },
         mounted() {
-            //
+            for (var i = 0; i < this.evacJson.features.length; ++i) {
+                let lng = this.evacJson.features[i].geometry.coordinates[0]
+                let lat = this.evacJson.features[i].geometry.coordinates[1]
+                this.evacPoints.push(latLng(lat, lng))
+            }
         },
         watch: { 
             selectedCity: function(newVal, oldVal) { // watch it
