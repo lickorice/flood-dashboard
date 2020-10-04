@@ -1,6 +1,6 @@
 <template>
     <div class="row" style="height: 95vh; width: 100vw">
-        <div class="col-4 p-0 m-0">
+        <div class="col-4 p-0 m-0 w-100" style="overflow-y: scroll; overflow-x: hidden">
             <div class="row">
                 <div class="col mx-4 mt-3">
                     <div class="card mb-2">
