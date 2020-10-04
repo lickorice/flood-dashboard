@@ -1,6 +1,15 @@
 # PROJECT BAHA: NASA Spaceapps 2020 Submission - A Flood of Ideas
 The details for the challenge can be seen [here](https://2020.spaceappschallenge.org/challenges/confront/flood-ideas/details). 
 
+## Installation and Usage
+This app works with Laravel 8+.
+
+```bash
+    $ npm install
+    $ npm run dev
+    $ php artisan serve # localhost:8000
+```
+
 ## The Team
 
 ### **Jasper Kyle Catapang** - Statistician
