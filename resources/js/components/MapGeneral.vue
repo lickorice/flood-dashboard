@@ -41,12 +41,15 @@
             /> -->
             <l-marker
                 v-for="evacPoint in evacPoints"
-                :key="evacPoint[0]"
-                :lat-lng="evacPoint"
+                :key="evacPoint[1]"
+                :lat-lng="evacPoint[0]"
             >
                 <l-icon
                     icon-url="https://drive.google.com/uc?id=1GsXWLN1d5aX7UjaG4wfjUHThNQz5DYkp"
                 ></l-icon>
+                <l-popup>
+                    {{ evacPoint[1] }}
+                </l-popup>
             </l-marker>
         </l-map>
     </div>
@@ -95,8 +98,8 @@
                     iconUrl:'https://drive.google.com/uc?id=1epJ3DRUFK0tdUAcK7h0tzffAthAI-Djd',
                     iconRetinaUrl:'https://drive.google.com/uc?id=1epJ3DRUFK0tdUAcK7h0tzffAthAI-Djd',
                     iconSize:[50,50],
-                    iconAnchor:[25,50],
-                    popupAnchor: [0,-40]
+                    iconAnchor:[25,0],
+                    popupAnchor: [500,50]
                 }),
                 evacJson: require('./ncr_evac.json'),
                 evacPoints: [],
@@ -196,7 +199,7 @@
             for (var i = 0; i < this.evacJson.features.length; ++i) {
                 let lng = this.evacJson.features[i].geometry.coordinates[0]
                 let lat = this.evacJson.features[i].geometry.coordinates[1]
-                this.evacPoints.push(latLng(lat, lng))
+                this.evacPoints.push([latLng(lat, lng), this.evacJson.features[i].properties.address])
             }
         },
         watch: { 
