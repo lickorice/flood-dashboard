@@ -61,7 +61,7 @@
                     <div class="card mb-2">
                         <div class="card-body">
                             <h3>Recent Floods</h3>
-                            <ul v-if="events!=[]">
+                            <ul v-if="events">
                                 <li v-for="(event, key) in events">
                                     {{ event['title'] }}
                                 </li>
