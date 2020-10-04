@@ -180,7 +180,7 @@
                 return (this.selectedCity.income[this.floodLevel-1]/22).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
             },
             getIncomeDollars() {
-                return (this.selectedCity.income[this.floodLevel-1] / this.usExchangeRate*22).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
+                return (this.selectedCity.income[this.floodLevel-1] / (this.usExchangeRate*22)).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
             },
         },
         mounted () {
