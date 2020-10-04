@@ -17,8 +17,8 @@
         {{-- FA --}}
         <script src="https://kit.fontawesome.com/37d3304040.js" crossorigin="anonymous"></script>
 
-        
-        <title>Flood Dashboard</title>
+
+        <title>PROJECT BAHA</title>
     </head>
     <body>
         <div id="app">
