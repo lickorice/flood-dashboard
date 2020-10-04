@@ -77,6 +77,51 @@
                             </i>
                         </div>
                     </div>
+                    <div class="card mt-2">
+                        <div class="card-body">
+                            <h3>The Team</h3>
+                            <h5>Jasper Kyle Catapang <small class="text-muted">Statistician</small></h5>
+                            <b>Machine Learning Manager - Alfafusion</b> <br>
+                            BS Computer Science, University of the Philippines Manila <br>
+                            jcatapang@up.edu.ph <br>
+
+                            <hr>
+
+                            <h5>Carlos Fernando Panganiban <small class="text-muted">Software Engineer</small></h5>
+                            <b>Engineering Team Lead - Google DSC UP Diliman</b> <br>
+                            BS Computer Science, University of the Philippines Diliman <br>
+                            cgpanganiban@up.edu.ph <br>
+
+                            <hr>
+
+                            <h5>William Frederic Wells <small class="text-muted">Data Engineer</small></h5>
+                            <b>Engineering Team Member - Google DSC UP Diliman</b> <br>
+                            BS Computer Science, University of the Philippines Diliman <br>
+                            wowells@up.edu.ph <br>
+
+                            <hr>
+
+                            <h5>Cyan Erick Pascual <small class="text-muted">Researcher</small></h5>
+                            <b>Projects Team Lead - Google DSC UP Diliman</b> <br>
+                            BS Geodetic Engineering, University of the Philippines Diliman <br>
+                            cbpascual3@up.edu.ph <br>
+
+                            <hr>
+
+                            <h5>Francisco Luis Berba <small class="text-muted">Presenter</small></h5>
+                            <b>Chief Operating Officer - Google DSC UP Diliman</b> <br>
+                            B Public Administration, University of the Philippines Diliman <br>
+                            fpberba@up.edu.ph <br>
+
+                            <hr>
+
+                            <h5>Emmanuel Maminta <small class="text-muted">Data Analyst </small></h5>
+                            <b>Data Analyst, UP Industrial Engineering Club</b> <br>
+                            BS Electrical Engineering, University of the Philippines Diliman <br>
+                            egmaminta@up.edu.ph <br>
+
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
