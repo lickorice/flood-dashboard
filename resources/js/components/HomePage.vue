@@ -61,7 +61,7 @@
                     <div class="card mb-2">
                         <div class="card-body">
                             <h3>Recent Floods</h3>
-                            <ul v-if="events">
+                            <ul v-if="events!=[]">
                                 <li v-for="(event, key) in events">
                                     {{ event['title'] }}
                                 </li>
@@ -108,7 +108,8 @@
                 ],
                 selectedCity: {NAME_2: "Manila", name: "Manila", lat: 14.600185, lng: 120.995241, zoom: 13.5, income: [145452345.5, 508748210.3, 422266469.2,], tax: [46395568.66, 162277634.3, 134692176.3,], isUnselected: true},
                 floodLevel: 3,
-                usExchangeRate: 48.48
+                usExchangeRate: 48.48,
+                events: null,
             };
         },
 
@@ -133,7 +134,7 @@
             fetch('https://eonet.sci.gsfc.nasa.gov/api/v3/categories/floods?bbox=14.676863,120.956038,14.520046,121.098956')
             .then(response => response.json())
             .then((responseJSON) => {
-                this.events = responseJSON['features']
+                this.events = responseJSON['events']
             });
         },
     }
