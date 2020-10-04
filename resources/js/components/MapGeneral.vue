@@ -15,14 +15,14 @@
             />
             <l-geo-json
                 v-if="floodLevel >= 3"
-                :key="changeGeoJson"
+                :key="changeGeoJson+2"
                 :geojson="require('./ncr_var1_250m_intersection.json')"
                 :options="options"
                 :options-style="geoJsonStyleFunction1"
             />
             <l-geo-json
                 v-if="floodLevel >= 2"
-                :key="changeGeoJson"
+                :key="changeGeoJson+1"
                 :geojson="require('./ncr_var2_250m_intersection.json')"
                 :options="options"
                 :options-style="geoJsonStyleFunction2"

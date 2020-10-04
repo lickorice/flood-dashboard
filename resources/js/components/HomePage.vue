@@ -7,7 +7,7 @@
                         <div class="card-body">
                             <h3>Select a city:</h3>
                             <select name="" id="" class="custom-select" v-model="selectedCity">
-                                <option :value="city" v-for="city in cities" :key="city.name" :selected="city.NAME_2 == 'ncr'">
+                                <option :value="city" v-for="city in cities" :key="city.NAME_2" :selected="city.NAME_2 == 'ncr'">
                                     {{ city.name }}
                                 </option>
                             </select>
