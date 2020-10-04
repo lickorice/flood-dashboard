@@ -5,9 +5,9 @@ The details for the challenge can be seen [here](https://2020.spaceappschallenge
 This app works with Laravel 8+.
 
 ```bash
-    $ npm install
-    $ npm run dev
-    $ php artisan serve # localhost:8000
+$ npm install
+$ npm run dev
+$ php artisan serve # localhost:8000
 ```
 
 ## The Team
